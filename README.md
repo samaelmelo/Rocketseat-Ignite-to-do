@@ -3,7 +3,7 @@
 
 <h3 align="center">Chapter #1 - Challenge #1</h3>
 <p align="center">
-  <a href="#-Projeto">Projeco</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnolgias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 <img align="center" src="./src/assets/app-todo.png" slt="to.do" />
 
-## 💻 Project
+## 💻 Projeto
 
 to.do é uma aplicação de anotação de tarefas. Desafio desenvolvido em ReactJS no curso Ignite da [Rocketseat](https://rocketseat.com.br/).
 
@@ -46,9 +46,10 @@ Este projeto foi desenvolvido com as tecnologias abaixo:
 - Acesse [`localhost:8080`](http://localhost:8080) no seu navegador
 - Execute o teste `yarn test`
 
-## 📄 Licence
+## 📄 Licença
 
 Este projeto está sob linceça MIT. Leia sobre [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
+feito por [samael melo](https://br.linkedin.com/in/samael-melo) em conjunto com time RocketSeat.
